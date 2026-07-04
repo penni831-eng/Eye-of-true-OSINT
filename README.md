@@ -1,2 +1,2 @@
 # Eye-of-true-OSINT
-Eye of ture is an osint tool, maked on Python programming language.
+Eye of true is an osint tool, maked on Python programming language.
